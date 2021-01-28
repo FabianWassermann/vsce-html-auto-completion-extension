@@ -1,0 +1,19 @@
+{
+    "simple html template": {
+        "prefix": "!html",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html>",
+            "   <head>",
+            "       <meta charset=\"utf-8\" />",
+            "       <title>${1:title}</title>",
+            "       <link rel=\"stylesheet\" href=\"${2:linkToCSS}\" />",
+            "   </head>",
+            "   <body>",
+            "       ${0}",
+            "   </body>",
+            "</html>"
+        ],
+        "description": "generates a simple html template"
+    }
+}
