@@ -18,6 +18,10 @@ You never have to type in <!DOCTYPE html>, <head>, <body>, <link>, <meta>.
 
 With !html you can generate a html template.
 
+### 1.0.1
+
+General Bugs got fixed.
+
 -----------------------------------------------------------------------------------------------------------
 
 Hope you enjoy HTML now a little bit more.

@@ -5,3 +5,7 @@ All notable changes to the "htmlAutoCompletion" extension will be documented in 
 ## [1.0.0]
 
 - !html - generates html template
+
+## [1.0.1]
+
+- bug fixes for better tabulators

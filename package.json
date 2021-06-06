@@ -2,15 +2,15 @@
 	"name": "htmlautocompletion",
 	"displayName": "HtmlAutoCompletion",
 	"description": "Makes html easier to code",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "F4Bz3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FabianWassermann/something"
+		"url": "https://github.com/FabianWassermann/"
 	},
 	"icon": "icon.png",
 	"engines": {
-		"vscode": "^1.51.0"
+		"vscode": "^1.56.0"
 	},
 	"categories": [
 		"Snippets"
@@ -20,12 +20,16 @@
 			{
 				"language": "html",
 				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "php",
+				"path": "./snippets/snippets.code-snippets"
 			}
 		]
 	},
 	"__metadata": {
 		"id": "4d684116-62eb-415c-be4e-ddd485bda3e3",
-		"publisherDisplayName": "FabianW",
-		"publisherId": "897adcb5-b241-42c5-94ac-b30eeae977bb"
+		"publisherDisplayName": "Wassermann F.",
+		"publisherId": "F4Bz3"
 	}
 }
