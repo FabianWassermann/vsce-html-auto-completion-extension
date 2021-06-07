@@ -1,7 +1,7 @@
 # htmlAutoCompletion
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![GitHub license](https://img.shields.io/github/license/FabianWassermannn/htmlAutoCompletion.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/FabianWassermann/htmlAutoCompletion)](https://github.com/FabianWassermann/htmlAutoCompletion/blob/master/LICENSE)
 
 This is a simple html auto completion extension.
 
