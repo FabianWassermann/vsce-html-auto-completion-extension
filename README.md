@@ -3,6 +3,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub license](https://img.shields.io/github/license/FabianWassermann/htmlAutoCompletion)](https://github.com/FabianWassermann/htmlAutoCompletion/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/FabianWassermann/htmlAutoCompletion)](https://GitHub.com/FabianWassermann/htmlAutoCompletion/releases/)
+[![Only 32 Kb](https://img.shields.io/github/repo-size/fabianwassermann/htmlAutoCompletion)](https://github.com/FabianWassermann/htmlAutoCompletion/blob/master/)
 
 This is a simple html auto completion extension.
 
