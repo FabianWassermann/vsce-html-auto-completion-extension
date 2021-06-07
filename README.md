@@ -7,6 +7,10 @@ This is a simple html auto completion extension.
 - !html generates a html template ready to use.
 - !table generates a simple html table.
 
+## Donate
+
+<a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Known Issues
 
 Nothing.
