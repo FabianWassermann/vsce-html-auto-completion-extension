@@ -15,5 +15,31 @@
             "</html>"
         ],
         "description": "generates a simple html template"
+    },
+    "simple table": {
+        "prefix": "!table",
+        "body": [
+            "<table>",
+            "    <tr>",
+            "        <th></th>",
+            "        <th></th>",
+            "        <th></th>",
+            "        <th></th>",
+            "    </tr>",
+            "    <tr>",
+            "        <td></td>",
+            "        <td></td>",
+            "        <td></td>",
+            "        <td></td>",
+            "    </tr>",
+            "    <tr>",
+            "        <td></td>",
+            "        <td></td>",
+            "        <td></td>",
+            "        <td></td>",
+            "    </tr>",
+            "</table>", 
+        ],
+        "description": "generates a simple table"
     }
 }

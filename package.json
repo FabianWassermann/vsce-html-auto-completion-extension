@@ -2,11 +2,11 @@
 	"name": "htmlautocompletion",
 	"displayName": "HtmlAutoCompletion",
 	"description": "Makes html easier to code",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "F4Bz3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FabianWassermann/"
+		"url": "https://github.com/FabianWassermann/htmlAutoCompletion"
 	},
 	"icon": "icon.png",
 	"engines": {
