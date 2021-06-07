@@ -6,7 +6,7 @@ All notable changes to the "htmlAutoCompletion" extension will be documented in 
 
 - compatibility with php files
 - added ```!table``` feature that generates a simple html table.
-  
+
 ## [1.0.1]
 
 - bug fixes tabulators

@@ -13,8 +13,8 @@ This is a simple html auto completion / code snippet extension.
 
 ## Features
 
-- !html generates a html template ready to use.
-- !table generates a simple html table.
+- ```!html``` generates a html template ready to use.
+- ```!table``` generates a simple html table.
 
 ## Donate
 
