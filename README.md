@@ -5,9 +5,9 @@
 [![GitHub release](https://img.shields.io/github/release/FabianWassermann/vsce-html-auto-completion-extension)](https://GitHub.com/FabianWassermann/vsce-html-auto-completion-extension/releases/)
 [![Only 32 Kb](https://img.shields.io/github/repo-size/fabianwassermann/vsce-html-auto-completion-extension)](https://github.com/FabianWassermann/vsce-html-auto-completion-extension/blob/master/)
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/F4Bz3.vsce-html-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-html-auto-completion-extension) 
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/F4Bz3.vsce-html-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-html-auto-completion-extension) 
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/F4Bz3.vsce-html-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-html-auto-completion-extension)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/F4Bz3.htmlautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.htmlautocompletion) 
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/F4Bz3.htmlautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.htmlautocompletion) 
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/F4Bz3.htmlautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.htmlautocompletion)
 
 This is a simple html auto completion / code snippet extension.
 
