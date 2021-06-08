@@ -45,7 +45,7 @@
     "simple form": {
         "prefix": "!form",
         "body": [
-            "<form method='${1:method}', action='${2:action}'>",
+            "<form method='${1:method}' action='${2:action}'>",
             "    <input type='${3:type}' name='${4:name}' placeholder='${5:placeholder}'>",
             "    <input type='${6:type}' name='${7:name}' placeholder='${8:placeholder}'>",
             "    <input type='submit' value='${9:value}'>",
