@@ -15,6 +15,7 @@ This is a simple html auto completion / code snippet extension.
 
 - ```!html``` generates a html template ready to use.
 - ```!table``` generates a simple html table.
+- ```!form``` generates a simple form.
 
 ## Donate
 
@@ -25,6 +26,7 @@ This is a simple html auto completion / code snippet extension.
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=F4Bz3.vsce-html-auto-completion-extension)
 
 ## What's new?
+
 Click here to go to the [Changelog](https://github.com/FabianWassermann/vsce-html-auto-completion-extension/blob/main/CHANGELOG.md)
 
 -----------------------------------------------------------------------------------------------------------

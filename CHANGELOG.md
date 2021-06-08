@@ -2,6 +2,10 @@
 
 All notable changes to the "htmlAutoCompletion" extension will be documented in this file.
 
+# [1.1.0]
+
+- added ```!form``` feature that generates a simple html form.
+
 ## [1.0.2]
 
 - compatibility with php files
