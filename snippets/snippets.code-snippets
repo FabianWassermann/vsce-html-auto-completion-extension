@@ -50,6 +50,7 @@
             "    <input type='${6:type}' name='${7:name}' placeholder='${8:placeholder}'>",
             "    <input type='submit' value='${9:value}'>",
             "</form>"
-        ]
+        ],
+        "description": "generates a simple form"
     }
 }
