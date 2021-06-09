@@ -2,7 +2,7 @@
 
 All notable changes to the "htmlAutoCompletion" extension will be documented in this file.
 
-# [1.1.0]
+# [1.1.0] - [1.1.1]
 
 - added ```!form``` feature that generates a simple html form.
 
