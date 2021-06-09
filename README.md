@@ -25,7 +25,7 @@ This is a simple html auto completion / code snippet extension.
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=F4Bz3.vsce-html-auto-completion-extension)
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=F4Bz3.htmlautocompletion)
 
 ## What's new?
 
